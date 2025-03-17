@@ -1,5 +1,3 @@
-Berikut deskripsi yang sesuai untuk repositori berisi implementasi **Greedy Best-First Search (GBFS)**, **A* Tree Search**, dan **A* Graph Search** dalam Python.
-
 # Implementasi Algoritma Pencarian A* dan GBFS dalam Python  
 
 Repositori ini berisi implementasi algoritma pencarian berbasis heuristik yang digunakan untuk menemukan jalur optimal dalam suatu ruang pencarian. Algoritma yang diimplementasikan meliputi metode **Greedy Best-First Search (GBFS)**, **A* Tree Search**, dan **A* Graph Search**.  
